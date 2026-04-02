@@ -1,10 +1,10 @@
 In order to log in remotely over the network you need to use our
-[VPN](wikipedia:Virtual_private_network.md "wikilink").
+[VPN](wikipedia:Virtual_private_network.html).
 
 # Re-configuring VPN in camera systems - 2023 change
 
 Please refer to this wiki page: [Reconfigure
-VPN](Reconfigure_VPN.md "wikilink").
+VPN](Reconfigure_VPN.html).
 
 # Setting up VPN configuration in your laptop/desktop
 
@@ -13,7 +13,7 @@ VPN](Reconfigure_VPN.md "wikilink").
 <div>
 
 If you do not have much experience with virtual private networks,
-[here](How_VPN_works.md "wikilink") you can find very brief and condensed
+[here](How_VPN_works.html) you can find very brief and condensed
 information how VPNs work and why you eg do not need to have a public
 fixed IP to connect to an observatory remotely.
 
@@ -24,7 +24,7 @@ fixed IP to connect to an observatory remotely.
 <div>
 
 In order to use the VPN you will need to request a VPN certificate from
-us. Contact [DFN camera help](Getting_Help.md "wikilink") and we will
+us. Contact [DFN camera help](Getting_Help.html) and we will
 provide you with one. Please tell us what platform you will be using
 (Linux, Mac OS X, Windows, Android) as sometimes we need to modify the
 configuration depending on your platform (Windows required four IP
@@ -185,7 +185,7 @@ OpenVPN client.
 
 Install Tunnelblick from [here](https://tunnelblick.net/downloads.html)
 and then configure it using the .opvpn file provided by [DFN camera
-help](Getting_Help.md "wikilink") by following the instructions
+help](Getting_Help.html) by following the instructions
 [here](https://tunnelblick.net/cConfigT.html#creating-and-installing-a-tunnelblick-vpn-configuration)
 (*Creating and Installing a Tunnelblick VPN Configuration* section).
 
@@ -202,7 +202,7 @@ help](Getting_Help.md "wikilink") by following the instructions
 - Wait a few seconds; the window will disappear, and the icon will turn
   mostly green once you're connected
 - You can now connect to any camera using its VPN [IP
-  address](IP_Addresses.md "wikilink").
+  address](IP_Addresses.html).
 
 ### Android
 
@@ -233,23 +233,23 @@ Once you have the certificate installed on your computer and you have
 connected to the VPN you will be able to connect to the camera as if you
 had a local Ethernet or WiFi connection (although the response time to
 commands will be a bit longer). The only difference is that you will
-need to use the [VPN IP address](IP_Addresses.md "wikilink") of the camera
+need to use the [VPN IP address](IP_Addresses.html) of the camera
 instead of the local login IP address.
 
 If you are on Linux or Mac OS X open a terminal and log into your
 observatory using SSH. For example, if you have [set up your hosts file
-for convenience](Hosts_File.md "wikilink") you would into DFNEXT17 by
+for convenience](Hosts_File.html) you would into DFNEXT17 by
 running the command:
 
 `ssh root@DFNEXT17`
 
-If you have not set up your local [hosts file](Hosts_File.md "wikilink"),
+If you have not set up your local [hosts file](Hosts_File.html),
 you would run the command:
 
 `ssh root@10.1.23.17`
 
 You will then be prompted to [unlock your SSH key to log
-in](SSH_Keys.md "wikilink") or enter the root user password if you aren't
+in](SSH_Keys.html) or enter the root user password if you aren't
 using an SSH key.
 
 ## Logging In via the Terminal from Windows
@@ -257,19 +257,19 @@ using an SSH key.
 If you're on Windows, you will need to use PuTTY or Microsoft Windows
 Subsystem for Linux; for more information see: [Logging in via Terminal
 from
-Windows](Logging_in_locally_via_WiFi_or_Ethernet#Logging_in_via_the_Terminal_from_Windows.md "wikilink").
+Windows](Logging_in_locally_via_WiFi_or_Ethernet#Logging_in_via_the_Terminal_from_Windows.html).
 You will need to use the relevant [VPN IP
-address](IP_Addresses.md "wikilink") instead of the local addresses though.
+address](IP_Addresses.html) instead of the local addresses though.
 
 # Logging in via the Web Interface
 
-If you have [set up your hosts file](Hosts_File.md "wikilink"), you can now
+If you have [set up your hosts file](Hosts_File.html), you can now
 log in via the web interface by entering it in your browser's address
 bar with the web interface's port number (8080). For example, to log
 into DFNEXT12 you would enter `DFNEXT:8080`.
 
 If you haven't [set up your hosts file for
-convenience](Hosts_File.md "wikilink") then you will need to look up your
-observatories [VPN IP address](IP_Addresses.md "wikilink") and enter that
+convenience](Hosts_File.html) then you will need to look up your
+observatories [VPN IP address](IP_Addresses.html) and enter that
 instead. For example, to log into DFNEXT12 you would enter
 `10.1.23.12:8080`.

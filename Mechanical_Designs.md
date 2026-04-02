@@ -4,22 +4,22 @@ sunshields and things like that
 # Gallery of installations
 
 - [Various photos of Fireball Camera Systems
-  Installations](Photos_of_Fireball_Camera_Installations.md "wikilink")
+  Installations](Photos_of_Fireball_Camera_Installations.html)
 - [Rooftop installations of DFNEXT/DFNSMALL camera
-  systems](Rooftop_Fireball_Camera_Installation.md "wikilink")
+  systems](Rooftop_Fireball_Camera_Installation.html)
 - [Standalone Fireball Camera
-  Installation](Standalone_Fireball_Camera_Installation.md "wikilink")
+  Installation](Standalone_Fireball_Camera_Installation.html)
   (DFNEXT/DFNSMALL)
 
 # DFNEXT and DFNSMALL camera systems
 
 - [DFNEXT/DFNSMALL camera mounting
-  pattern](Rooftop_Fireball_Camera_Installation#Mounting_Pattern.md "wikilink"),
+  pattern](Rooftop_Fireball_Camera_Installation#Mounting_Pattern.html),
   eg for roof top deployment
 - [Drawings and instructions for standalone
-  installation](Standalone_Fireball_Camera_Installation#Parts.md "wikilink")
+  installation](Standalone_Fireball_Camera_Installation#Parts.html)
 - [DFNEXT stand design by the UK Fireball
-  Network](DFNEXT_stand_design_by_the_UK_Fireball_Network.md "wikilink"),
+  Network](DFNEXT_stand_design_by_the_UK_Fireball_Network.html),
   off-the-shelf installation guide for standalone or rooftop deployment.
 
 # DFNKIT camera systems
@@ -27,10 +27,10 @@ sunshields and things like that
 ##  Rooftop Mounts
 
 - [Rooftop Kit Camera
-  Installation](Rooftop_Kit_Camera_Installation.md "wikilink") details -
+  Installation](Rooftop_Kit_Camera_Installation.html) details -
   DFNKIT deployment
 
-(For [DFNKIT](:File:Kit_camera_with_GPS_antenna_1000.jpg.md "wikilink")
+(For [DFNKIT](:File:Kit_camera_with_GPS_antenna_1000.jpg.html)
 cameras only at the moment. These have plastic enclosures with
 transparent tops.)
 
@@ -50,39 +50,39 @@ flat_roof_mount.ipt
 #### For smooth corrugated tin roofs
 
 [Media:PART 10 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_10_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_10_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 15 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_15_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_15_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 20 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_20_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_20_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 25 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_25_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_25_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 30 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_30_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_30_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 35 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_35_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_35_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 #### For rib and pan tin roofs
 
 [Media:PART 20 degree rib and pan roof mount MAT 3mm
-aluminium.dxf](Media:PART_20_degree_rib_and_pan_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_20_degree_rib_and_pan_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 For flat roofs and other structures:
 
 [Media:PART flat mount MAT 3mm
-aluminium.dxf](Media:PART_flat_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_flat_mount_MAT_3mm_aluminium.dxf.html)
 
 ### IPT files (editable for different roof angles and constructions)
 
-[Media:Roof mount.ipt](Media:Roof_mount.ipt.md "wikilink") (main roof mount
+[Media:Roof mount.ipt](Media:Roof_mount.ipt.html) (main roof mount
 used by kit cameras, roof angle is an editable parameter)
 
-[Media:Flat roof mount.ipt](Media:Flat_roof_mount.ipt.md "wikilink")
+[Media:Flat roof mount.ipt](Media:Flat_roof_mount.ipt.html)
 
 [Media:Roof mount rib and
-pan.ipt](Media:Roof_mount_rib_and_pan.ipt.md "wikilink")
+pan.ipt](Media:Roof_mount_rib_and_pan.ipt.html)

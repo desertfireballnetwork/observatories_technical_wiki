@@ -31,7 +31,7 @@ especially if you planned to deploy many cameras in frame of building
 your local network. It can co-exist with the default DFN VPN as long as
 you use different IP address range (DFN VPN uses
 10.1.16.0/255.255.240.0). We have a good experience and can recommend
-[Open VPN](wikipedia:OpenVPN.md "wikilink") <https://openvpn.net/>.
+[Open VPN](wikipedia:OpenVPN.html) <https://openvpn.net/>.
 
 The other thing is that our VPN server is hosted by a commercial
 provider and pay per transferred data. That means transferring bigger

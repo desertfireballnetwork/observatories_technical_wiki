@@ -1,5 +1,5 @@
 see also: [removing the outer blower
-ducting](Fitting_the_outer_blower_ducting.md "wikilink")(not required for
+ducting](Fitting_the_outer_blower_ducting.html)(not required for
 new cameras)
 
 ## Tools
@@ -131,11 +131,11 @@ title="lens_install_shuttercable_a.jpg" width="800" />
 </figure>
 
 Now for a newly arrived camera system, [configure and
-test](Configuring_the_Software.md "wikilink") the whole system in the lab.
+test](Configuring_the_Software.html) the whole system in the lab.
 The more preparation you do in advance, the less stress there will be
 during the fieldwork. If you plan to transport the instrument to the
 final site, and it is not sure what the roads quality will be, we
 recommend removing the DSLR from the enclosure for transport. For the
 same reason, we ship them in the same cardboard box, but separately.
 When on the final deployment site, do not forget to [fit the outer
-blower ducting](Fitting_the_outer_blower_ducting.md "wikilink")!
+blower ducting](Fitting_the_outer_blower_ducting.html)!

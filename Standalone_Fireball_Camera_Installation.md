@@ -24,7 +24,7 @@ DXF exports for laser cutting:
 
 - Small DFNEXT/DFNSMALL 2mm aluminium sunshield for cold/moderate
   climate areas
-  [20170330_Sunshield_2mm_Al.dxf](Media:20170330_Sunshield_2mm_Al.dxf.md "wikilink")
+  [20170330_Sunshield_2mm_Al.dxf](Media:20170330_Sunshield_2mm_Al.dxf.html)
   - Important: the GPS antenna mount point od the small sunshield needs
     to be bent / dropped a bit not to block the fielad of view of the
     all-sky fish eye lenses.
@@ -36,12 +36,12 @@ title="20171011_135614_Sunshield_1200.jpg" width="600" height="400" />
 </figure>
 
 See these images: [Arizona DFNEXT
-system](Media:Chiricahua_Astronomy_Complex_Fireball_Camera.jpg.md "wikilink"),
+system](Media:Chiricahua_Astronomy_Complex_Fireball_Camera.jpg.html),
 [Granum camera system in Alberta,
-Canada](Media:20190725_160927.jpg.md "wikilink")
+Canada](Media:20190725_160927.jpg.html)
 
 - Large DFNEXT/DFNSMALL 2mm aluminium sunshield for hot climate areas
-  [20191218_large_dfnext_sunshield_2mm_aluminum.dxf](Media:20191218_large_dfnext_sunshield_2mm_aluminum.dxf.md "wikilink")
+  [20191218_large_dfnext_sunshield_2mm_aluminum.dxf](Media:20191218_large_dfnext_sunshield_2mm_aluminum.dxf.html)
   - Similar with the large sunshield - needs to be bent, see the images
     above. This new design was improved by adding slits along the bend
     line, which makes the bending a lot easier in the field.
@@ -50,23 +50,23 @@ Canada](Media:20190725_160927.jpg.md "wikilink")
 
 DXF exports for water jet cutting:
 
-- [PART_solar_support_45d_MAT_5mm_mild_steel_QTY_2.dxf](Media:PART_solar_support_45d_MAT_5mm_mild_steel_QTY_2.dxf.md "wikilink")
-- [PART_solar_support_sand_shoe_MAT_5mm_mild_steel_QTY_4.dxf](Media:PART_solar_support_sand_shoe_MAT_5mm_mild_steel_QTY_4.dxf.md "wikilink")
+- [PART_solar_support_45d_MAT_5mm_mild_steel_QTY_2.dxf](Media:PART_solar_support_45d_MAT_5mm_mild_steel_QTY_2.dxf.html)
+- [PART_solar_support_sand_shoe_MAT_5mm_mild_steel_QTY_4.dxf](Media:PART_solar_support_sand_shoe_MAT_5mm_mild_steel_QTY_4.dxf.html)
   (in soft soil)
 
 <!-- -->
 
-- [PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf](Media:PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf.md "wikilink")
+- [PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf](Media:PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf.html)
 - 30x30x3 Aluminium angle bar
 
 ### Observatory Stand
 
 DXF exports for water jet cutting:
 
-- [PART_stand_rib_MAT_5mm_mild_steel_QTY_1.dxf](Media:PART_stand_rib_MAT_5mm_mild_steel_QTY_1.dxf.md "wikilink")
-- [PART_stand_base_MAT_5mm_mild_steel_QTY_1.dxf](Media:PART_stand_base_MAT_5mm_mild_steel_QTY_1.dxf.md "wikilink")
-- [PART_stand_back_MAT_5mm_mild_steel_QTY_1.dxf](Media:PART_stand_back_MAT_5mm_mild_steel_QTY_1.dxf.md "wikilink")
-- [PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf](Media:PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf.md "wikilink")
+- [PART_stand_rib_MAT_5mm_mild_steel_QTY_1.dxf](Media:PART_stand_rib_MAT_5mm_mild_steel_QTY_1.dxf.html)
+- [PART_stand_base_MAT_5mm_mild_steel_QTY_1.dxf](Media:PART_stand_base_MAT_5mm_mild_steel_QTY_1.dxf.html)
+- [PART_stand_back_MAT_5mm_mild_steel_QTY_1.dxf](Media:PART_stand_back_MAT_5mm_mild_steel_QTY_1.dxf.html)
+- [PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf](Media:PART_wedge_MAT_10mm_mild_steel_QTY_30.dxf.html)
 - Fencing wire to construct tensioning stays
 
 (Note: wedges are included twice as they are used by both designs but
@@ -77,7 +77,7 @@ only 30 in total are required per installation.)
 - Star picket stakes to secure the stand in soft soil, or
 - Sand bags or rocks to weigh down stand in rocky terrain
 - Hardware to build the fence - if applicable (see
-  [below](Standalone_Fireball_Camera_Installation#Fence.md "wikilink"))
+  [below](Standalone_Fireball_Camera_Installation#Fence.html))
 
 # Observatory deployment
 
@@ -199,7 +199,7 @@ is worth charging any batteries you have in storage about every six
 months.
 
 When used in a solar power application it is best to keep the [depth of
-discharge](wikipedia:Depth_of_discharge.md "wikilink") of lead acid
+discharge](wikipedia:Depth_of_discharge.html) of lead acid
 batteries to 30% or less to prolong the cycle life of the battery.
 
 If the recommendations on this page are followed and the charging
@@ -228,7 +228,7 @@ batteries.pdf</figcaption>
 ### Solar Charge Controller
 
 A [maximum power point
-tracking](wikipedia:Maximum_power_point_tracking.md "wikilink") charge
+tracking](wikipedia:Maximum_power_point_tracking.html) charge
 controller will allow you to use much better value 200-360W 60 or 72
 cell 24V solar panels designed for rooftop use and available as low as
 \$0.50 per Watt instead of 12V 65-150W solar panels designed for camping

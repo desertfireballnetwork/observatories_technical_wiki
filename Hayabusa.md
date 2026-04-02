@@ -3,40 +3,40 @@ campaign.
 
 # Infrasound
 
-- [Raspberry Pi (bare) logger](RPi_infrasound_logger.md "wikilink")
+- [Raspberry Pi (bare) logger](RPi_infrasound_logger.html)
 
 <!-- -->
 
-- [Blackbox logger](Blackbox_infrasound_logger.md "wikilink")
+- [Blackbox logger](Blackbox_infrasound_logger.html)
 
 <!-- -->
 
-- [Raspberry Boom](RS&BOOM.md "wikilink")
+- [Raspberry Boom](RS&BOOM.html)
 
 # Seismic
 
-- [Raspberry Shake](RS&BOOM.md "wikilink")
+- [Raspberry Shake](RS&BOOM.html)
 
 # Optical
 
-- [DFNEXT temporary station](DFNEXT_temporary_station.md "wikilink")
+- [DFNEXT temporary station](DFNEXT_temporary_station.html)
 
 <!-- -->
 
-- [DFNEXT002 Marla](DFNEXT_PC_and_video_only.md "wikilink")
+- [DFNEXT002 Marla](DFNEXT_PC_and_video_only.html)
 
 <!-- -->
 
-- [Camera on tripod](camera_tripod.md "wikilink")
+- [Camera on tripod](camera_tripod.html)
 
 # EM
 
-- [log-periodic antenna + UHF receiver](log-periodic_antenna.md "wikilink")
+- [log-periodic antenna + UHF receiver](log-periodic_antenna.html)
 
 # Other
 
-- [Absolute barometer](Absolute_barometer.md "wikilink")
+- [Absolute barometer](Absolute_barometer.html)
 
 <!-- -->
 
-- [Energetic Particle Detector](EPD.md "wikilink")
+- [Energetic Particle Detector](EPD.html)

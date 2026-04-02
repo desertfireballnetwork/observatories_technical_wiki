@@ -60,4 +60,4 @@ door.
 
 If there are any issues with the GUI while attempting to format HDDs or
 run the interval control test, see the [Manual
-Maintenance](Manual_Maintenance.md "wikilink") page.
+Maintenance](Manual_Maintenance.html) page.

@@ -111,39 +111,39 @@ flat_roof_mount.ipt
 ### For smooth corrugated tin roofs
 
 [Media:PART 10 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_10_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_10_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 15 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_15_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_15_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 20 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_20_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_20_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 25 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_25_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_25_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 30 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_30_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_30_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 [Media:PART 35 degree roof mount MAT 3mm
-aluminium.dxf](Media:PART_35_degree_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_35_degree_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 ### For rib and pan tin roofs
 
 [Media:PART 20 degree rib and pan roof mount MAT 3mm
-aluminium.dxf](Media:PART_20_degree_rib_and_pan_roof_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_20_degree_rib_and_pan_roof_mount_MAT_3mm_aluminium.dxf.html)
 
 For flat roofs and other structures:
 
 [Media:PART flat mount MAT 3mm
-aluminium.dxf](Media:PART_flat_mount_MAT_3mm_aluminium.dxf.md "wikilink")
+aluminium.dxf](Media:PART_flat_mount_MAT_3mm_aluminium.dxf.html)
 
 ## IPT files (editable for different roof angles and constructions)
 
-[Media:Roof mount.ipt](Media:Roof_mount.ipt.md "wikilink") (main roof mount
+[Media:Roof mount.ipt](Media:Roof_mount.ipt.html) (main roof mount
 used by kit cameras, roof angle is an editable parameter)
 
-[Media:Flat roof mount.ipt](Media:Flat_roof_mount.ipt.md "wikilink")
+[Media:Flat roof mount.ipt](Media:Flat_roof_mount.ipt.html)
 
 [Media:Roof mount rib and
-pan.ipt](Media:Roof_mount_rib_and_pan.ipt.md "wikilink")
+pan.ipt](Media:Roof_mount_rib_and_pan.ipt.html)

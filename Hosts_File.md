@@ -1,13 +1,13 @@
-An [IP address](wikipedia:IP_address.md "wikilink") is the address of your
+An [IP address](wikipedia:IP_address.html) is the address of your
 observatory on the DFN's network of computers and observatories. The
-[VPN](Logging_in_remotely_over_the_network.md "wikilink") is used to
+[VPN](Logging_in_remotely_over_the_network.html) is used to
 connect all these computers and observatories even when they are behind
 routers or on connections that do not provide a public IP address (like
 mobile broadband connections).
 
 The IP address of your observatory depends on it's number and what model
 of observatory it is (see [Observatory
-Types](Observatory_Types.md "wikilink")).
+Types](Observatory_Types.html)).
 
 DFNSMALL: `10.1.17.xx` (where xx is the observatory number)
 
@@ -19,7 +19,7 @@ FIREOPAL: `10.1.25.xxx` (where xxx is the observatory number)
 
 It is important to note that these IP addresses will only work if you
 are connected to the
-[VPN](Logging_in_remotely_over_the_network.md "wikilink").
+[VPN](Logging_in_remotely_over_the_network.html).
 
 # Local IP Address
 

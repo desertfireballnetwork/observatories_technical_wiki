@@ -5,7 +5,7 @@ There are some settings you must configure before using your camera:
 - camera time zone.
 
 You can do this either using the [Camera
-GUI](Using_the_GUI_for_Regular_Maintenance.md "wikilink"), or using the
+GUI](Using_the_GUI_for_Regular_Maintenance.html), or using the
 Command line as described below
 
 Then you can runs some basic initial tests, as described below or in the
@@ -14,10 +14,10 @@ GUI page
 ## Using the GUI with a local connection
 
 Connect to the camera locally, as described
-[here](Logging_in_locally_via_WiFi_or_Ethernet.md "wikilink"). This could
+[here](Logging_in_locally_via_WiFi_or_Ethernet.html). This could
 be a laptop/cable, or via wifi, using a tablet/phone. Start your
 browser, and follow the instructions in the [Camera
-GUI](Using_the_GUI_for_Regular_Maintenance.md "wikilink") page.
+GUI](Using_the_GUI_for_Regular_Maintenance.html) page.
 
 ## Command-Line steps.
 
@@ -67,7 +67,7 @@ camera still has sensible values in case the GPS systems has a problem.
 Also, you need to change some preferences if you want to receive emails
 of events from the camera.
 
-See [detailed description](Dfnstation.cfg.md "wikilink"), use a command
+See [detailed description](Dfnstation.cfg.html), use a command
 like
 
 `nano /opt/dfn-software/dfnstation.cfg` to edit the file
@@ -101,7 +101,7 @@ night), it's /data0/latest that links to the current directory.
 
 This steps check that the removable HDDs are ready - installed, working,
 and empty. Please follow the instructions on the [manual maintenance
-page](Manual_Maintenance#Checking_removable_hard_drives.md "wikilink").
+page](Manual_Maintenance#Checking_removable_hard_drives.html).
 
 #### Overnight test
 
@@ -115,4 +115,4 @@ using `ls -1 /data0/latest/*.NEF | wc -l`.
 If you can put the observatory outside or stick GPS antenna out of the
 window to get GPS reception, you can also test GPS functionality -
 detailed instructions are on the [manual maintenance
-page](Manual_Maintenance#Checking_GPS.md "wikilink").
+page](Manual_Maintenance#Checking_GPS.html).

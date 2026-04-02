@@ -37,7 +37,7 @@ title="PXL_20230105_092055680.jpg" />
 
 ## AMOS-Spec for fireballs
 
-[BIOS configuration](AMOS-Spec_fireball_BIOS_configuration.md "wikilink")
+[BIOS configuration](AMOS-Spec_fireball_BIOS_configuration.html)
 
 ## Replace HDD
 

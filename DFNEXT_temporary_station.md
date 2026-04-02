@@ -20,11 +20,11 @@ Things needed:
 
 # Special forced video recording
 
-- [Forced Freeture recording](Freeture_forced_frame_save.md "wikilink")
+- [Forced Freeture recording](Freeture_forced_frame_save.html)
 
 # Tips
 
-- Follow [instructions](Camera_Maintenance.md "wikilink") for setup.
+- Follow [instructions](Camera_Maintenance.html) for setup.
 - Important: do not move or touch the stand or camera box once the night
   has started: Astrometric calibration images for both video and still
   are going to be recorded in the early part of the night when the moon

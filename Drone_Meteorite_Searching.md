@@ -457,7 +457,7 @@ See install notes:
   (https://dashboard.rc.nectar.org.au/project/reservations/), ideally on
   QLD or Swinburne (easier because they have ephemeral disk). Start the
   client (see
-  [\#GPU_machine_Deployment](#GPU_machine_Deployment.md "wikilink")).
+  [\#GPU_machine_Deployment](#GPU_machine_Deployment.html)).
 
 ### Comms
 

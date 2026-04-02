@@ -1,6 +1,6 @@
 ## Prerequisites
 
-1.  [DFNEXT_Cable_Assembly](DFNEXT_Cable_Assembly.md "wikilink")
+1.  [DFNEXT_Cable_Assembly](DFNEXT_Cable_Assembly.html)
 
 ## Enclosure Assembly
 

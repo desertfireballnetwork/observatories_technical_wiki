@@ -5,7 +5,7 @@ the file on the camera
 is the main configuration file for the camera operations. You **must**
 set up some basic values before using the cameras.
 
-You can edit it via the [GUI](Camera_GUI.md "wikilink"), or using the
+You can edit it via the [GUI](Camera_GUI.html), or using the
 command line on the camera (e.g, login as root, and run
 `nano /opt/dfn-software/dfnstation.cfg`).
 
@@ -53,7 +53,7 @@ of email addesses, comma separated, no spaces.
 `owner_emails = 0`
 
 The other vital step is to set up the [camera calibration
-orientation](Calibrating_the_camera_orientation.md "wikilink").
+orientation](Calibrating_the_camera_orientation.html).
 
 ## Other optional settings
 

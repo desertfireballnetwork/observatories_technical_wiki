@@ -2,7 +2,7 @@
 blue PCB modem adaptor board (see images below). For DFN observatories
 with green PCB modem adaptor board please refer to [DFN Modem
 Installation - Green
-card](DFN_Modem_Installation_-_Green_card.md "wikilink").***
+card](DFN_Modem_Installation_-_Green_card.html).***
 
 The DFNEXT observatories usually ship without modems as many of them are
 deployed with WiFi or Ethernet connectivity and different areas of the
@@ -11,7 +11,7 @@ world require different modems.
 If you wish to network your DFNEXT observatory via mobile broadband
 instead of WiFi or Ethernet you need to source a modem and request a
 modem installation care package from [DFN Camera
-Help](Getting_Help.md "wikilink"). You will also need a 2FF ("standard")
+Help](Getting_Help.html). You will also need a 2FF ("standard")
 sized SIM with an active data plan.
 
 The recommended modems are the [Sierra Wireless AirPrime MC
@@ -49,5 +49,5 @@ AP name (example: "telstra.m2m" for Australian Telstra M2M plans),
 Password, Username and Phone (number) to dial.
 
 The [Mobile network
-configuration](Mobile_network_configuration.md "wikilink") in the
+configuration](Mobile_network_configuration.html) in the
 observatory PC operating system has moved to a separate wiki page.

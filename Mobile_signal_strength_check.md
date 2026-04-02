@@ -1,7 +1,7 @@
 This page provides detailed information how to check mobile signal
 reception quality from command line. For general information on mobile
 networks and modems, please go to [Mobile network - 3G/4G modem
-installation and configuration](Mobile_network_-_3G,_4G.md "wikilink").
+installation and configuration](Mobile_network_-_3G,_4G.html).
 
 *Note: This link shows a good description of what signal quality is
 needed:*

@@ -49,16 +49,16 @@ Venue: Macquarie University, Building E7A, Level 8
 1.  Three ways to log in:
     1.  Locally via monitor and keyboard
     2.  Locally over the network (Ethernet or WiFi)
-        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=Logging_in_locally_via_WiFi_or_Ethernet>](Logging_in_locally_via_WiFi_or_Ethernet.md "wikilink"))
+        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=Logging_in_locally_via_WiFi_or_Ethernet>](Logging_in_locally_via_WiFi_or_Ethernet.html))
     3.  Remotely over the network (VPN)
-        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=Logging_in_remotely_over_the_network>](Logging_in_remotely_over_the_network.md "wikilink"))
+        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=Logging_in_remotely_over_the_network>](Logging_in_remotely_over_the_network.html))
 2.  Ways to make working with the observatories easier
     1.  SSH Keys
-        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=SSH_Keys>](SSH_Keys.md "wikilink"))
+        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=SSH_Keys>](SSH_Keys.html))
     2.  VPN access
-        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=Logging_in_remotely_over_the_network>](Logging_in_remotely_over_the_network.md "wikilink"))
+        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=Logging_in_remotely_over_the_network>](Logging_in_remotely_over_the_network.html))
     3.  Hosts file
-        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=IP_Addresses#Hosts_File>](IP_Addresses#Hosts_File.md "wikilink"))
+        ([<https://dfn.d-f-n.org/mediawiki/index.php?title=IP_Addresses#Hosts_File>](IP_Addresses#Hosts_File.html))
     4.  Web GUI
         (https://dfn.d-f-n.org//mediawiki/index.php?title=Web_Interface)
 3.  File access
@@ -69,8 +69,8 @@ Venue: Macquarie University, Building E7A, Level 8
 
 1.  DFN wiki: <https://dfn.d-f-n.org/mediawiki>
 2.  For camera help you can email dfn camera help ([Getting
-    Help](Getting_Help.md "wikilink"))
+    Help](Getting_Help.html))
 3.  For fireball event help you can dfn events ([Getting
-    Help](Getting_Help.md "wikilink"))
+    Help](Getting_Help.html))
 
 __NOTOC__

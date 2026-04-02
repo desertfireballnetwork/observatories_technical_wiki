@@ -36,21 +36,21 @@ PC](https://wiki.dfn.net.au/index.php/File:DFNSMALL_Commell_PC_eth_ports_marked.
 , which has a free mPCIe card slot and SIM card slot as well. In such a
 case you will need only the modem module and HF patch coaxial cable.
 
-[DFNEXT Modem Installation](DFNEXT_Modem_Installation.md "wikilink") - Blue
+[DFNEXT Modem Installation](DFNEXT_Modem_Installation.html) - Blue
 PCB modem converter card
 
 [DFN Modem Installation - Green
-card](DFN_Modem_Installation_-_Green_card.md "wikilink") - Green PCB modem
+card](DFN_Modem_Installation_-_Green_card.html) - Green PCB modem
 converter card
 
 ### Mobile network modem configuration
 
-[Mobile network configuration](Mobile_network_configuration.md "wikilink")
+[Mobile network configuration](Mobile_network_configuration.html)
 in the observatory PC operating system
 
 ### Checking the quality of reception - signal strength
 
-[Mobile signal strength check](Mobile_signal_strength_check.md "wikilink")
+[Mobile signal strength check](Mobile_signal_strength_check.html)
 in the observatory PC operating system
 
 ## Alternative: Rugged mobile network router

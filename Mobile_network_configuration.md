@@ -1,25 +1,25 @@
 This page describes the configuration of Mobile data network in DFN
 camera systems. Upper level page is
-[Mobile_network_-_3G,_4G](Mobile_network_-_3G,_4G.md "wikilink").
+[Mobile_network_-_3G,_4G](Mobile_network_-_3G,_4G.html).
 
 First make sure you know [which camera system you
-have](Which_camera.md "wikilink"). Most of the GFO systems are DFNEXTs. We
+have](Which_camera.html). Most of the GFO systems are DFNEXTs. We
 use DFNEXTs pretty much only within the Curtin - operated DFN in Western
 and South Australia.
 
 For modem module installation in DFNEXT observatories with blue PCB
 modem adaptor board please refer to [DFNEXT Modem
-Installation](DFNEXT_Modem_Installation.md "wikilink").
+Installation](DFNEXT_Modem_Installation.html).
 
 For modem module installation in DFNSMALL/DFNEXT observatories with
 green PCB modem adaptor board please refer to [DFN Modem Installation -
-Green card](DFN_Modem_Installation_-_Green_card.md "wikilink").
+Green card](DFN_Modem_Installation_-_Green_card.html).
 
 In case of DFNSMALL camera systems with Commell LE-37D PC boards and
 modem mPCIe card in the slot on-board the PC (no USB adopter used),
 please make sure the BIOS is configured accordingly - please refer to
 [DFNSMALL observatories BIOS
-configuration](DFNSMALL_observatories_BIOS_configuration.md "wikilink") how
+configuration](DFNSMALL_observatories_BIOS_configuration.html) how
 to enable the WLAN card support. (For DFNEXT systems no specific BIOS
 configuration is needed.)
 
@@ -284,5 +284,5 @@ and then you open /etc/network/interfaces, comment out all the
 
 ## Checking the quality of reception - signal strength
 
-[Mobile signal strength check](Mobile_signal_strength_check.md "wikilink")
+[Mobile signal strength check](Mobile_signal_strength_check.html)
 in the observatory PC operating system

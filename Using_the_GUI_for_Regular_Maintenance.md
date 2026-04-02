@@ -1,6 +1,6 @@
-The web-based [Graphical User Interface](Web_Interface.md "wikilink") (GUI)
+The web-based [Graphical User Interface](Web_Interface.html) (GUI)
 can be accessed using these instructions: [Web
-Interface](Web_Interface.md "wikilink")
+Interface](Web_Interface.html)
 
 ## The basics
 
@@ -57,7 +57,7 @@ dialogue, and confirm.
 
 It should not be needed for setting up a new system. NOTE: This is not
 currently working in the GUI unfortunately; you have to use the [command
-line](Manual_Maintenance#3._Format_the_new_drives_after_replacing.md "wikilink"),
+line](Manual_Maintenance#3._Format_the_new_drives_after_replacing.html),
 through a terminal.
 
 ### Interval control test

@@ -6,7 +6,7 @@ triangulations, as the camera must convert coordinates of pixel events
 into altitude, azimuth, and then into Right Ascension, Declination
 
 If you deploy the camera as detailed in the
-[standalone](Standalone_Fireball_Camera_Installation.md "wikilink")
+[standalone](Standalone_Fireball_Camera_Installation.html)
 section, with the long axis of the camera east/west, and the correct
 direction north (camera stand towards North, camera enclosure door
 towards South), then the default values are OK, and you don't need to do

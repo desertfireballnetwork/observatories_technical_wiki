@@ -6,7 +6,7 @@ to happen:
 - The observatory box must be powered - LED indicator are lit (at least
   on the micro controller PCB)
 - The embedded PC must boot successfully - [how to
-  troubleshoot](#How_to_troubleshoot_PC_booting.md "wikilink")
+  troubleshoot](#How_to_troubleshoot_PC_booting.html)
 - PC has to tell micro controller to power on
 - DSLR has to power on
 - PC has to tell microcontroller to start taking images
@@ -14,9 +14,9 @@ to happen:
   cable
 - DSLR has to be configured properly to take photos via gPhoto2 over USB
 - DSLR has to take photos - [how to
-  fix](#Possible_cause_.26_fix_when_DSLR_is_not_taking_photos.md "wikilink")
+  fix](#Possible_cause_.26_fix_when_DSLR_is_not_taking_photos.html)
 - LC shutter has to flicker - [investigate LC shutter
-  malfunction](investigate_LC_shutter_malfunction.md "wikilink")
+  malfunction](investigate_LC_shutter_malfunction.html)
 
 ## Initial Steps
 
@@ -78,8 +78,8 @@ a reset in a web interface over WiFi.
 #### Software reboot
 
 Connect to the WiFi network and then open the [Web GUI
-interface](Web_Interface.md "wikilink") and [reboot the
-system](Using_the_GUI_for_Regular_Maintenance#Rebooting_the_system.md "wikilink").
+interface](Web_Interface.html) and [reboot the
+system](Using_the_GUI_for_Regular_Maintenance#Rebooting_the_system.html).
 
 #### Hard reset - cycling the power
 
@@ -87,7 +87,7 @@ If the WiFi network was not visible or the web interface reset was not
 working, the other option is to power cycle the whole camera system.
 
 There is a DC power cable connected to the bottom of the camera box - as
-shown on the [photo](Media:DFN_camera_power_cable.jpg.md "wikilink"). It is
+shown on the [photo](Media:DFN_camera_power_cable.jpg.html). It is
 the biggest connector, and it needs to be unscrewed before unplugging.
 Once the power is disconnected, please wait for about 1 minute and then
 connect it back, tightening it again. Shortly after re-connecting the
@@ -99,11 +99,11 @@ silent.
 
 1.  Power on the observatory box and try to locally connect with
     [ethernet
-    cable](Logging_in_locally_via_WiFi_or_Ethernet#Ethernet.md "wikilink")
-    or [WiFi](Logging_in_locally_via_WiFi_or_Ethernet#WiFi.md "wikilink")
+    cable](Logging_in_locally_via_WiFi_or_Ethernet#Ethernet.html)
+    or [WiFi](Logging_in_locally_via_WiFi_or_Ethernet#WiFi.html)
     (if the box is is equipped with it, eg DFNEXT type)
     - for wired connection, make sure you using [the correct ethernet
-      port](Logging_in_locally_via_WiFi_or_Ethernet#Ethernet.md "wikilink")
+      port](Logging_in_locally_via_WiFi_or_Ethernet#Ethernet.html)
       for laptop connection. (Better try both if unsure.)
     - make sure the WiFi antenna is attached if you want to use WiFi -
       the white little stick on the bottom of the DFNEXT box.
@@ -384,7 +384,7 @@ Also two or more directories with images listed by
 `...`
 
 To fix this, [format the memory
-card](Formatting_the_CF_Card.md "wikilink"). If the problem repeats,
+card](Formatting_the_CF_Card.html). If the problem repeats,
 replace the memory card and/or make sure the USB3 cable between the DSLR
 and PC is in a good shape and not causing errors (syslog inspection
 should reveal that if physical cable does not look damaged or sharp

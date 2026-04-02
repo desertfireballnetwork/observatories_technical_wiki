@@ -58,7 +58,7 @@ DXF drawing exports for laser cutting:
 
 - Small DFNEXT/DFNSMALL 2mm aluminium sunshield for cold/moderate
   climate areas
-  [20170330_Sunshield_2mm_Al.dxf](Media:20170330_Sunshield_2mm_Al.dxf.md "wikilink")
+  [20170330_Sunshield_2mm_Al.dxf](Media:20170330_Sunshield_2mm_Al.dxf.html)
   - Important: the GPS antenna mount point od the small sunshield needs
     to be bent / dropped a bit not to block the fielad of view of the
     all-sky fish eye lenses.
@@ -68,12 +68,12 @@ title="20171011_135614_Sunshield_1200.jpg" width="600" height="400"
 alt="20171011_135614_Sunshield_1200.jpg" />\]
 
 See these images: [Arizona DFNEXT
-system](Media:Chiricahua_Astronomy_Complex_Fireball_Camera.jpg.md "wikilink"),
+system](Media:Chiricahua_Astronomy_Complex_Fireball_Camera.jpg.html),
 [Granum camera system in Alberta,
-Canada](Media:20190725_160927.jpg.md "wikilink")
+Canada](Media:20190725_160927.jpg.html)
 
 - Large DFNEXT/DFNSMALL 2mm aluminium sunshield for hot climate areas
-  [20191218_large_dfnext_sunshield_2mm_aluminum.dxf](Media:20191218_large_dfnext_sunshield_2mm_aluminum.dxf.md "wikilink")
+  [20191218_large_dfnext_sunshield_2mm_aluminum.dxf](Media:20191218_large_dfnext_sunshield_2mm_aluminum.dxf.html)
   - Similar with the large sunshield - needs to be bent, see the images
     above. This new design was improved by adding slits along the bend
     line, which makes the bending a lot easier in the field.

@@ -64,7 +64,7 @@ alt="Recommended wiring on the observatory power plug side for a 6 or 7 conducto
 
 If you need to build your own long cable with (using the cable listed
 above) you can request a *Long DC Cable Run Connector Care Package* from
-[us](Getting_Help.md "wikilink"). It should contain:
+[us](Getting_Help.html). It should contain:
 ![](Long_DC_cable_connector_care_package.png "Long_DC_cable_connector_care_package.png")
 
 <table>

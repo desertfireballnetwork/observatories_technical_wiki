@@ -6,7 +6,7 @@ corresponding number for your camera system.
 ### Login to the camera system...
 
 ...either [locally using ethernet wire or
-WiFi](Logging_in_locally_via_WiFi_or_Ethernet.md "wikilink") or just use
+WiFi](Logging_in_locally_via_WiFi_or_Ethernet.html) or just use
 screen and keyboard (HDMI, screen needs to be connected before powering
 up the camera box).
 

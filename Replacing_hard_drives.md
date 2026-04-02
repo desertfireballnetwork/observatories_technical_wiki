@@ -4,7 +4,7 @@ Replacing magnetic hard drives is easy, as long as the drives are not
 powered on (eg 'python /opt/dfn-software/disable_ext-hd.py'), the camera
 box can stay powered ON. Just be careful when touching any wiring inside
 the box. Please follow [HDDs replace
-checklist](Media:Checklist_HDDs_replace.pdf.md "wikilink"), which includes
+checklist](Media:Checklist_HDDs_replace.pdf.html), which includes
 instructions regarding formatting.
 
 ## Recommended HDD models (2024)

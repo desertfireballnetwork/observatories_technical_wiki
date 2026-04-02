@@ -32,23 +32,23 @@ It has a number of advantages over previous versions:
   of battery voltage
 
 <figure>
-<img src="Internals_of_DFNEXT_installed_in_Northam.jpg"
+<img src="images/Internals_of_DFNEXT_installed_in_Northam.jpg"
 title="Internals_of_DFNEXT_installed_in_Northam.jpg" />
 <figcaption>Internals_of_DFNEXT_installed_in_Northam.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="DFNEXT_Internals.jpg" title="DFNEXT_Internals.jpg" />
+<img src="images/DFNEXT_Internals.jpg" title="DFNEXT_Internals.jpg" />
 <figcaption>DFNEXT_Internals.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="Dfnext_connectors.jpg" title="Dfnext_connectors.jpg" />
+<img src="images/Dfnext_connectors.jpg" title="Dfnext_connectors.jpg" />
 <figcaption>Dfnext_connectors.jpg</figcaption>
 </figure>
 
 <figure>
-<img src="DFNEXT_PCB.jpg" title="DFNEXT_PCB.jpg" />
+<img src="images/DFNEXT_PCB.jpg" title="DFNEXT_PCB.jpg" />
 <figcaption>DFNEXT_PCB.jpg</figcaption>
 </figure>
 

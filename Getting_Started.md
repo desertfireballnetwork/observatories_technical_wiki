@@ -13,7 +13,7 @@ interface]({% link observatories/maintenance/Web_Interface.md %}) which can also
 remotely.
 
 There is more than one type of DFN observatory; you can figure out what
-type you have [here]({% link Observatory_Types.md %}). Most of the
+type you have [here]({% link observatories/index.md %}). Most of the
 instructions on this wiki will focus primarily on the latest
 [DFNEXT]({% link observatories/dfnext/index.md %}) observatories as more of these have been
 delivered to collaborators than the other types and this is the only
@@ -26,7 +26,7 @@ de-focussed in transport, the DSLR body and Samyang lens are since
 August 2018 shipped separately to the main box. That completely
 eliminates the mechanical stress transferred from the packaging to the
 DSLR/lens joint. On the other hand, that means the user will need to
-install them in the [DFNEXT]({% link Observatory_Types.md %}) box upon
+install them in the [DFNEXT]({% link observatories/index.md %}) box upon
 arrival.
 
 Please follow

@@ -11,7 +11,7 @@ mobile broadband connections).
 
 The IP address of your observatory depends on it's number and what model
 of observatory it is (see [Observatory
-Types]({% link Observatory_Types.md %})).
+Types]({% link observatories/index.md %})).
 
 DFNSMALL: `10.1.17.xx` (where xx is the observatory number)
 

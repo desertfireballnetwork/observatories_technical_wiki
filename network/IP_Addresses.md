@@ -11,7 +11,7 @@ mobile broadband connections).
 
 The IP address of your observatory depends on it's number and what model
 of observatory it is (see [Observatory
-Types]({% link Observatory_Types.md %})).
+Types]({% link observatories/index.md %})).
 
 DFNSMALL: `10.1.17.xx` (where xx is the observatory number)
 
@@ -40,7 +40,7 @@ would be `10.1.17.25` and DFNEXT009 would be `10.1.23.9`.
 
 To avoid having to remember the IP system, you can gives aliases to the
 IPs of your cameras by modifying the [hosts
-file](https://en.wikipedia.org/wiki/Hosts_(file) "wikilink") on **your computer**.
+file](https://en.wikipedia.org/wiki/Hosts_(file)) on **your computer**.
 
 [How to edit your hosts file on Linux - Mac -
 Windows](https://support.rackspace.com/how-to/modify-your-hosts-file/)

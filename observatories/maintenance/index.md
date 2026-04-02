@@ -48,7 +48,7 @@ You will also occasionally be required to:
 
 - [Installing lens and
   DSLR]({% link installations/How_to_install_flanged_Samyang_lens_and_DSLR_to_the_DFNEXT_enclosure.md %})
-  in the [DFNEXT]({% link Observatory_Types.md %}) observatory type
+  in the [DFNEXT]({% link observatories/index.md %}) observatory type
 - [Fitting the outer blower
   ducting]({% link observatories/maintenance/Fitting_the_outer_blower_ducting.md %}) on a
   [DFNEXT]({% link observatories/dfnext/index.md %}) or [DFNSMALL]({% link observatories/dfnsmall/index.md %})
@@ -95,7 +95,7 @@ general [Manual Maintenance]({% link observatories/maintenance/Manual_Maintenanc
 
 <!-- -->
 
-- [Which camera type do I have?]({% link Observatory_Types.md %})
+- [Which camera type do I have?]({% link observatories/index.md %})
 
 #### DFNSMALLs
 

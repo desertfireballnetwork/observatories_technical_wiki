@@ -1,14 +1,14 @@
-# DFNEXT
+## DFNEXT
 
 This section describes how to focus FUJINON video camera lens in DFNEXT
 camera systems (Point grey / FLIR digital cameras) using freeture video
 capture software.
 
-## Stop the freeture SW running as service
+### Stop the freeture SW running as service
 
 `systemctl stop freeture.service`
 
-## Run freeture in to display currently captured video live on screen
+### Run freeture in to display currently captured video live on screen
 
 Login as user which is not root locally (keyboard + monitor + mouse
 needed).
@@ -56,18 +56,18 @@ the hex socket insert.
 if the focus is sharp as with f/1.8 or f/2.0. If yes, keep the wide open
 setting. If not, stop down to f/1.8 or f/2.0.*
 
-## Stop freeture
+### Stop freeture
 
 By pressing \[Esc\] in the terminal window where it was started - not in
 the window with live video stream.
 
-## Start the freeture SW running as service again
+### Start the freeture SW running as service again
 
 `systemctl start freeture.service`
 
-# AMOS Spec (or any machine vision camera equipped with a rectilinear lens)
+## AMOS Spec (or any machine vision camera equipped with a rectilinear lens)
 
-## Things required
+### Things required
 
 - physical access to the camera
 - a laptop (Windows has more software GUIs for this job)
@@ -75,7 +75,7 @@ the window with live video stream.
   on the other side (USB3 A or USB-C)
 - GUI to drive the camera in live view (see below)
 
-## Software needed
+### Software needed
 
 Camera manufacturers typically ship basic GUIs for interacting with
 their cameras, should be sufficient in most cases:
@@ -90,7 +90,7 @@ Astronomy capture GUIs can sometimes offer more control:
 - <https://www.sharpcap.co.uk/>
 - <https://www.firecapture.de/>
 
-## Procedure
+### Procedure
 
 Best results are obtained using stars.
 

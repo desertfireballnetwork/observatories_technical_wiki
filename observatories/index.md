@@ -4,8 +4,9 @@ nav_order: 3
 has_children: true
 ---
 You observatory will be one of three possible types (design iterations).
-Most of the GFO systems are DFNEXTs. We use DFNEXTs pretty much only
-within the Curtin - operated DFN in Western and South Australia.
+
+Most of the GFO systems are DFNEXTs.
+DFNSMALLs are only used within the DFN in Western and South Australia.
 
 ### **DFNEXT**
 

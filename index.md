@@ -8,8 +8,7 @@ Fireball Observatory public wiki. This wiki contains documentation for
 the the DFN's fireball observatories and data processing procedures for
 collaborators and team members. The main GFO website is on
 <https://gfo.rocks>, Australian DFN website can be found at
-<https://dfn.gfo.rocks> and the DFN outreach portal is
-<http://fireballsinthesky.com.au/>.
+<https://dfn.gfo.rocks>.
 
 **Please contribute where you can** by uploading information, designs
 and files that will help others with installation, maintenance and

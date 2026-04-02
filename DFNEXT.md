@@ -1,7 +1,7 @@
 The DFNEXT fireball observatory is a revision of the DFN's digital
 fireball observatory specifically created to facilitate the global
 fireball observatory. It is the successor to the
-[DFNSMALL](DFNSMALL.md "wikilink") design. The primary objective of the
+[DFNSMALL](DFNSMALL.md) design. The primary objective of the
 revision was to make maintenance easier for collaborators.
 
 The first production run of EXT systems started in January 2017 and the
@@ -31,31 +31,23 @@ It has a number of advantages over previous versions:
   states and make the closed state transmission consistent irrespective
   of battery voltage
 
-<figure>
-<img src="images/Internals_of_DFNEXT_installed_in_Northam.jpg"
-title="Internals_of_DFNEXT_installed_in_Northam.jpg" />
-<figcaption>Internals_of_DFNEXT_installed_in_Northam.jpg</figcaption>
-</figure>
+![DFNEXT_installed_in_Northam](images/Internals_of_DFNEXT_installed_in_Northam.jpg)
+*Internals_of_DFNEXT_installed_in_Northam.jpg*
 
-<figure>
-<img src="images/DFNEXT_Internals.jpg" title="DFNEXT_Internals.jpg" />
-<figcaption>DFNEXT_Internals.jpg</figcaption>
-</figure>
+![DFNEXT_Internals.jpg](images/DFNEXT_Internals.jpg)
+*DFNEXT_Internals.jpg*
 
-<figure>
-<img src="images/Dfnext_connectors.jpg" title="Dfnext_connectors.jpg" />
-<figcaption>Dfnext_connectors.jpg</figcaption>
-</figure>
+![Dfnext_connectors.jpg](images/Dfnext_connectors.jpg)
+*Dfnext_connectors.jpg*
 
-<figure>
-<img src="images/DFNEXT_PCB.jpg" title="DFNEXT_PCB.jpg" />
-<figcaption>DFNEXT_PCB.jpg</figcaption>
-</figure>
+![DFNEXT_PCB.jpg](images/DFNEXT_PCB.jpg)
+*DFNEXT_PCB.jpg*
+
 
 ## Assembly, deployment and maintenance
 
 To assemble the remote observatory follow the instructions found in
-[DFNEXT Assembly](DFNEXT_Assembly.md "wikilink").
+[DFNEXT Assembly](DFNEXT_Assembly.md).
 
 Here are instructions on [Mobile network - 3G/4G modem installation and
-configuration](Mobile_network_-_3G,_4G.md "wikilink").
+configuration](Mobile_network_-_3G,_4G.md).

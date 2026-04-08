@@ -37,7 +37,7 @@ Plug in:
 If configured properly, the system will auto connect to the designated
 WiFi, and it can be accessed remotely.
 
-![infra_blackbox_connections.jpg]({{ site.baseurl }}/images/infra_blackbox_connections.jpg)
+![infra_blackbox_connections.jpg]({{ site.baseurl }}/images/Infra_blackbox_connections.jpg)
 
 # Turn off
 

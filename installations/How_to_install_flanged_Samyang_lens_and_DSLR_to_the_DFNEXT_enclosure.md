@@ -25,8 +25,8 @@ Drive. Feed the SATA and power cables to the side of the enclosure
 opposite to the lenses. This gets them out of the way of the lens and
 camera that will be installed shortly.
 
-![lens_install_hdd_power.jpg]({{ site.baseurl }}/images/lens_install_hdd_power.jpg)
-![lens_install_hdd_power_out.jpg]({{ site.baseurl }}/images/lens_install_hdd_power_out.jpg)
+![lens_install_hdd_power.jpg]({{ site.baseurl }}/images/Lens_install_hdd_power.jpg)
+![lens_install_hdd_power_out.jpg]({{ site.baseurl }}/images/Lens_install_hdd_power_out.jpg)
 
 ## Preparing and installing the lens
 
@@ -35,14 +35,14 @@ camera that will be installed shortly.
 First undo the bolts enough to remove the brass ring from the rubber
 gasket and aluminium flange.
 
-![lens_install_prepare.jpg]({{ site.baseurl }}/images/lens_install_prepare.jpg)
-![lens_install_remove_brass_ring.jpg]({{ site.baseurl }}/images/lens_install_remove_brass_ring.jpg)
+![lens_install_prepare.jpg]({{ site.baseurl }}/images/Lens_install_prepare.jpg)
+![lens_install_remove_brass_ring.jpg]({{ site.baseurl }}/images/Lens_install_remove_brass_ring.jpg)
 
 Place all bolts back into the aluminium flange as far as possible
 through the rubber gasket.
 
-![lens_install_bolts_thru_rubber.jpg]({{ site.baseurl }}/images/lens_install_bolts_thru_rubber.jpg)
-![lens_install_lens.jpg]({{ site.baseurl }}/images/lens_install_lens.jpg)
+![lens_install_bolts_thru_rubber.jpg]({{ site.baseurl }}/images/Lens_install_bolts_thru_rubber.jpg)
+![lens_install_lens.jpg]({{ site.baseurl }}/images/Lens_install_lens.jpg)
 
 ### Install Procedure
 
@@ -62,7 +62,7 @@ To attach the lens to the camera body, align the lens and the camera.
 Twist the lens clockwise about 40 degrees, aligning the line on the lens
 with the dot on the camera body.
 
-![lens_install_align_proc.jpg]({{ site.baseurl }}/images/lens_install_align_proc.jpg)
+![lens_install_align_proc.jpg]({{ site.baseurl }}/images/Lens_install_align_proc.jpg)
 
 Bring the lens and camera body together and, holding the lens by the
 flange, twist the lens anti clockwise. When the alignment mark on the
@@ -74,7 +74,7 @@ one of the bolts and tighten the bolt until it just grips the brass
 ring. you might need to clamp the brass ring and camera lens with your
 hand to ensure the bolts grip to the brass ring.
 
-![lens_install.jpg]({{ site.baseurl }}/images/lens_install.jpg)
+![lens_install.jpg]({{ site.baseurl }}/images/Lens_install.jpg)
 
 Once all bolts are gripping the brass ring you can tighten the flange to
 the enclosure fully.
@@ -83,12 +83,12 @@ the enclosure fully.
 
 Insert the LC shutter wires in the appropriate connector.
 
-![lens_install_lc_1.jpg]({{ site.baseurl }}/images/lens_install_lc_1.jpg)
-![lens_install_lc_2_arrow.jpg]({{ site.baseurl }}/images/lens_install_lc_2_arrow.jpg)
+![lens_install_lc_1.jpg]({{ site.baseurl }}/images/Lens_install_lc_1.jpg)
+![lens_install_lc_2_arrow.jpg]({{ site.baseurl }}/images/Lens_install_lc_2_arrow.jpg)
 
 Attach the camera battery connector to the appropriate cable
 
-![lens_install_cam_power.jpg]({{ site.baseurl }}/images/lens_install_cam_power.jpg)
+![lens_install_cam_power.jpg]({{ site.baseurl }}/images/Lens_install_cam_power.jpg)
 
 Connect USB cable to the DSLR camera.
 
@@ -97,11 +97,11 @@ individually. The (silver) SATA data cables are labeled from 1 to 3.
 Attach the hard drives as illustrated in the image below. Attach Hard
 Drive power cables to the hard drives.
 
-![lens_install_hdd_numbers.jpg]({{ site.baseurl }}/images/lens_install_hdd_numbers.jpg)
+![lens_install_hdd_numbers.jpg]({{ site.baseurl }}/images/Lens_install_hdd_numbers.jpg)
 
 Attach camera shutter cable to the PCB.
 
-![lens_install_shuttercable_a.jpg]({{ site.baseurl }}/images/lens_install_shuttercable_a.jpg)
+![lens_install_shuttercable_a.jpg]({{ site.baseurl }}/images/Lens_install_shuttercable_a.jpg)
 
 Now for a newly arrived camera system, [configure and
 test]({{ site.baseurl }}{% link observatories/maintenance/Configuring_the_Software.md %}) the whole system in the lab.

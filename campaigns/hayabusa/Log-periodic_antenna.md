@@ -42,4 +42,4 @@ The receiver will log for 5 minutes.
   the beam.
 - Do not tighten coax connectors too much, just finger tight.
 
-![antenna_cable_feeding.jpg]({{ site.baseurl }}/images/antenna_cable_feeding.jpg)
+![antenna_cable_feeding.jpg]({{ site.baseurl }}/images/Antenna_cable_feeding.jpg)

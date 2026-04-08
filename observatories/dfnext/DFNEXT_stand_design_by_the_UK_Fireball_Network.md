@@ -25,6 +25,6 @@ UKFN.pdf*
 
 # Gallery of installations
 
-![roof_tall_install.jpeg]({{ site.baseurl }}/images/roof_tall_install.jpeg)\| ![Floor]({{ site.baseurl }}/images/Floor) mounted camera back.jpeg\|
+![roof_tall_install.jpeg]({{ site.baseurl }}/images/Roof_tall_install.jpeg)\| ![Floor]({{ site.baseurl }}/images/Floor) mounted camera back.jpeg\|
 ![Floor]({{ site.baseurl }}/images/Floor) mounted camera front.jpeg\| ![Shed_side_install.jpeg]({{ site.baseurl }}/images/Shed_side_install.jpeg)\|
 ![Lincoln]({{ site.baseurl }}/images/Lincoln) camera stand.jpeg\| ![Example]({{ site.baseurl }}/images/Example) roof stand.jpeg\|

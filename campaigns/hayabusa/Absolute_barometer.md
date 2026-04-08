@@ -14,4 +14,4 @@ Very straight forward to use instrument:
 - After pressing the stop button, wait for a few seconds for data access
   to SD card to stop before turning off.
 
-![nano_logger.jpg]({{ site.baseurl }}/images/nano_logger.jpg)
+![nano_logger.jpg]({{ site.baseurl }}/images/Nano_logger.jpg)

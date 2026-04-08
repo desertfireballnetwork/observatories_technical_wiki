@@ -31,6 +31,6 @@ Bolt together (from bottom to top):
 - nylon washer
 - (bolt)
 
-![batt_terminal_connection.jpg]({{ site.baseurl }}/images/batt_terminal_connection.jpg)
+![batt_terminal_connection.jpg]({{ site.baseurl }}/images/Batt_terminal_connection.jpg)
 
-![battery_finished_setup.jpg]({{ site.baseurl }}/images/battery_finished_setup.jpg)
+![battery_finished_setup.jpg]({{ site.baseurl }}/images/Battery_finished_setup.jpg)

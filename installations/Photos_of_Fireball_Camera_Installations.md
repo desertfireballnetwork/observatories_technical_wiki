@@ -7,16 +7,11 @@ Just drag and drop your photos onto this page and we will organise them!
 
 ## Roof-top installations in Australia - DFNSMALL, DFNEXT
 
-![DSC]({{ site.baseurl }}/images/DSC) 1496 Hyden camera 1200.JPG\| ![DSC]({{ site.baseurl }}/images/DSC) 1485 Hyden camera
-1200.JPG\| ![Top]({{ site.baseurl }}/images/Top) down view of roof mount.jpg\| ![Rooftop]({{ site.baseurl }}/images/Rooftop) mount
-with modular aluminium frame.jpg\| ![Yalgoo]({{ site.baseurl }}/images/Yalgoo) rooftop camera
-wide.jpg\| ![Shelving]({{ site.baseurl }}/images/Shelving) bracket roof mount.jpg\| ![Rooftop]({{ site.baseurl }}/images/Rooftop)
-camera.jpg\|
+![DSC_1496_Hyden_camera_1200.JPG]({{ site.baseurl }}/images/DSC_1496_Hyden_camera_1200.JPG)\| ![DSC_1485_Hyden_camera_1200.JPG]({{ site.baseurl }}/images/DSC_1485_Hyden_camera_1200.JPG)\| ![Top_down_view_of_roof_mount.jpg]({{ site.baseurl }}/images/Top_down_view_of_roof_mount.jpg)\| ![Rooftop_mount_with_modular_aluminium_frame.jpg]({{ site.baseurl }}/images/Rooftop_mount_with_modular_aluminium_frame.jpg)\| ![Yalgoo_rooftop_camera_wide.jpg]({{ site.baseurl }}/images/Yalgoo_rooftop_camera_wide.jpg)\| ![Shelving_bracket_roof_mount.jpg]({{ site.baseurl }}/images/Shelving_bracket_roof_mount.jpg)\| ![Rooftop_camera.jpg]({{ site.baseurl }}/images/Rooftop_camera.jpg)\|
 
 ## Grid powered installations in Morocco - DFNEXT
 
-![IMG]({{ site.baseurl }}/images/IMG) 5087 Agoudal DFNEXT 1600.jpg\| ![IMG]({{ site.baseurl }}/images/IMG) 5373 Ozoud DFNEXT
-1600.jpg\| ![IMG]({{ site.baseurl }}/images/IMG) 5377 Ozoud DFNEXT 1600.jpg\|
+![IMG_5087_Agoudal_DFNEXT_1600.jpg]({{ site.baseurl }}/images/IMG_5087_Agoudal_DFNEXT_1600.jpg)\| ![IMG_5373_Ozoud_DFNEXT_1600.jpg]({{ site.baseurl }}/images/IMG_5373_Ozoud_DFNEXT_1600.jpg)\| ![IMG_5377_Ozoud_DFNEXT_1600.jpg]({{ site.baseurl }}/images/IMG_5377_Ozoud_DFNEXT_1600.jpg)\|
 
 <center>
 
@@ -26,7 +21,7 @@ Photos courtesy of Moroccan Observatory for Fireball Detections (MOFID)
 
 ## Installations in Canada
 
-![Vermilion]({{ site.baseurl }}/images/Vermilion) DFNEXT IMG 1358 crop1200.jpg\|
+![Vermilion_DFNEXT_IMG_1358_crop1200.jpg]({{ site.baseurl }}/images/Vermilion_DFNEXT_IMG_1358_crop1200.jpg)\|
 ![Mattheis_Ranch_Fireball_Camera.jpg]({{ site.baseurl }}/images/Mattheis_Ranch_Fireball_Camera.jpg)\| ![20190725_160927.jpg]({{ site.baseurl }}/images/20190725_160927.jpg)\|
 
 Photo courtesy of Rob Baron, Lakeland College (the most left image) and
@@ -34,8 +29,7 @@ Patrick Hill, University of Alberta (the two on the right).
 
 ## Installations in Arizona
 
-![Chiricahua]({{ site.baseurl }}/images/Chiricahua) Astronomy Complex Fireball Camera.jpg\| ![Flat]({{ site.baseurl }}/images/Flat)
-roof frame.jpg\| ![Indoor_power_supply.jpg]({{ site.baseurl }}/images/Indoor_power_supply.jpg)\|
+![Chiricahua_Astronomy_Complex_Fireball_Camera.jpg]({{ site.baseurl }}/images/Chiricahua_Astronomy_Complex_Fireball_Camera.jpg)\| ![Flat_roof_frame.jpg]({{ site.baseurl }}/images/Flat_roof_frame.jpg)\| ![Indoor_power_supply.jpg]({{ site.baseurl }}/images/Indoor_power_supply.jpg)\|
 
 ## Installations in the UK
 
@@ -50,16 +44,14 @@ Photos courtesy of Dr. Luke Daly, UKFN
 
 ## Standalone solar powered installations in Australia - DFNSMALL, DFNEXT
 
-![DaysHill_camera_1200.JPG]({{ site.baseurl }}/images/DaysHill_camera_1200.JPG)\| ![Weekeroo.jpg]({{ site.baseurl }}/images/Weekeroo.jpg)\| ![Mt]({{ site.baseurl }}/images/Mt) Ive
-DSC 4688 1600.JPG\| ![Nilpena_camera_1200.JPG]({{ site.baseurl }}/images/Nilpena_camera_1200.JPG)\|
+![DaysHill_camera_1200.JPG]({{ site.baseurl }}/images/DaysHill_camera_1200.JPG)\| ![Weekeroo.jpg]({{ site.baseurl }}/images/Weekeroo.jpg)\| ![Mt_Ive_DSC_4688_1600.JPG]({{ site.baseurl }}/images/Mt_Ive_DSC_4688_1600.JPG)\| ![Nilpena_camera_1200.JPG]({{ site.baseurl }}/images/Nilpena_camera_1200.JPG)\|
 ![Moolawatana_camera_1200.JPG]({{ site.baseurl }}/images/Moolawatana_camera_1200.JPG)\| ![Sm_DSC_2024.JPG]({{ site.baseurl }}/images/Sm_DSC_2024.JPG)\|
 ![Ingomar_camera_1200.JPG]({{ site.baseurl }}/images/Ingomar_camera_1200.JPG)\| ![BillaKalina_camera_1200.JPG]({{ site.baseurl }}/images/BillaKalina_camera_1200.JPG)\|
-![Billa]({{ site.baseurl }}/images/Billa) Kalina DFNSMALL DSC 4279 1600.JPG\| ![Newdegate]({{ site.baseurl }}/images/Newdegate)
-standalone solar install.jpg\|
+![Billa_Kalina_DFNSMALL_DSC_4279_1600.JPG]({{ site.baseurl }}/images/Billa_Kalina_DFNSMALL_DSC_4279_1600.JPG)\| ![Newdegate_standalone_solar_install.jpg]({{ site.baseurl }}/images/Newdegate_standalone_solar_install.jpg)\|
 
 ## Standalone solar powered installations in the Kingdom of Saudi Arabia
 
-![DFNEXT13]({{ site.baseurl }}/images/DFNEXT13) KSA.jpg\|
+![DFNEXT13_KSA.jpg]({{ site.baseurl }}/images/DFNEXT13_KSA.jpg)\|
 
 <center>
 

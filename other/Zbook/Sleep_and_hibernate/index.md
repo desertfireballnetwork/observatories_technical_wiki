@@ -8,14 +8,14 @@ parent: "Zbook"
 
 This mode is also called "suspend to disk". It is supposed to have the lowest power consumption, pretty much same as S5 power down.
 
+This how-to was inspired by generic Ubuntu suspend instructions - see resources in the bottom of the page. That includes details and other scenarios.
+
 _(Tested on: SBKPFV3 HP ZBook 8 G1i 14 inch Mobile Workstation PC)_
 
 ## 1. Make sure there is swap partition or swap file
 Ideally bigger than physical RAM. That is where the memory state will be saved as the RAM is not powered in S4 hiberbate.
 
 ```
-swapon --show 
-
 swapon --show
 NAME           TYPE       SIZE USED PRIO
 /dev/nvme0n1p3 partition 74.5G   0B   -2

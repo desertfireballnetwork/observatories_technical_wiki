@@ -141,16 +141,116 @@ config: /etc/tlp.conf
 
 (https://www.fosslinux.com/135830/how-to-fine-tune-power-management-in-ubuntu-using-tlp.htm)
 
-### 5.2 Issues 
+### 5.2 Issues and troubleshooting
 
 #### 5.2.1 External HDMI screen may be blank on resume
 Fix: Switch that ext screen video output off in xrandr/display settings, then hit "restore previous configuration" to actually not switch it off.
 
 Alternative fix: after full wake-up, disconnect and reconnect the dock or HDMI screen cable.
 
-#### 
+#### 5.2.2 Unwanted wake-ups
 
-## 6. Resources
+The Zbook wakes up from both hibernate and suspend when USB-C power adapter is unplugged.
 
-### Comprehensive generic instructions for suspend in all recent Ubuntu versions.
+Possible solutions:
+
+**A1 Temporary solution**
+```
+sudo grep  "XHC" /proc/acpi/wakeup
+XHCI      S0    *enabled   pci:0000:00:14.0
+TXHC      S4    *enabled   pci:0000:00:0d.0
+sudo echo "XHCI" | sudo tee /proc/acpi/wakeup
+XHCI
+sudo grep  "XHC" /proc/acpi/wakeup
+XHCI      S0    *disabled  pci:0000:00:14.0
+TXHC      S4    *enabled   pci:0000:00:0d.0
+sudo echo "TXHC" | sudo tee /proc/acpi/wakeup
+TXHC
+martin@mcu-zbook:~$ sudo grep  "XHC" /proc/acpi/wakeup
+XHCI      S0    *disabled  pci:0000:00:14.0
+TXHC      S4    *disabled  pci:0000:00:0d.0
+```
+_Note:
+`XHCI      S0` indicates S0 low power sub-mode (another poor engineering Microsoft enforced annoyance) is used instead of propper S3 mode._
+
+This can also be verified by `cat /sys/power/mem_sleep`.
+
+If you see `s2idle`: Your laptop is using "Modern Standby". Your XHCI device WILL wake the laptop from sleep because "Sleep" is technically an S0 state, not a propper S3 suspend to RAM.
+If you see `s2idle [deep]`: Your laptop is using traditional S3 sleep. Your XHCI device SHOULD NOT wake the laptop from deep sleep.
+
+My Zbook has 
+```
+cat /sys/power/mem_sleep
+[s2idle]
+```
+which means laptop’s firmware (BIOS) has entirely disabled or removed support for traditional S3 "Deep Sleep"/"Suspend to RAM".
+This is common on most laptops built since 2021 (Intel 11th Gen and newer). Microsof pushed everyone to implement "Modern Standby" (also called S0ix) and block users from using traditional S3.
+
+**A1 Permanent - create script that toggles this**
+
+Automated Sleep Script (For persistent resets)
+
+Sometimes the system resets these "enabled" flags every time it wakes up. You can create a script that runs every time the system prepares to sleep.
+
+Create a new script triggered by sleep (pre/post): `/lib/systemd/system-sleep/disable-unwanted-wakeup`
+
+Paste the following content into a script 
+```
+#!/bin/sh
+
+safe_disable() {
+    # 
+    # write to /proc/acpi/wakeup is a toggle - not set/unset
+    if grep -iwq "$1.*enabled" /proc/acpi/wakeup; then
+        echo "$1" > /proc/acpi/wakeup
+        logger -t "$0" -p info "My wakeup tweak: Disabling ACPI event $1 to wake up from sleep."
+    else
+        logger -t "$0" -p info "My wakeup tweak: ACPI event $1 wake-up was already disabled."
+    fi
+}
+
+logger -t "$0" -p info "My wakeup tweak: Running $0 $*."
+
+case $1 in
+  pre)
+    safe_disable "TXHC"
+    safe_disable "XHCI"
+    ;;
+esac
+```
+Make the script executable: sudo chmod +x /lib/systemd/system-sleep/disable-unwanted-wakeup
+
+**A2 permanent - config file**
+Update your configuration to include all three "power-aware" triggers: AWAC (Alarm), TXHC (Thunderbolt/USB-C), and XHCI (Standard USB).
+```
+sudo emacs /etc/tmpfiles.d/disable-wakeups.conf
+```
+Paste these three lines:
+```
+# Path                  Mode UID  GID  Age Argument
+w /proc/acpi/wakeup     -    -    -    -   AWAC
+w /proc/acpi/wakeup     -    -    -    -   TXHC
+w /proc/acpi/wakeup     -    -    -    -   XHCI
+```
+Save and exit.
+
+Other possible culprits to add are these Thunderbolt wake-ups
+
+```
+### Thunderbolt PCIe root ports
+w /proc/acpi/wakeup     -    -    -    -   TRP0
+w /proc/acpi/wakeup     -    -    -    -   TRP2
+### Thunderbolt NHI (Native Host Interface) controllers
+w /proc/acpi/wakeup     -    -    -    -   TDM0
+w /proc/acpi/wakeup     -    -    -    -   TDM1
+```
+Pretty much anything that is enabled when listing with 
+
+```
+grep  "enabled" /proc/acpi/wakeup
+```
+
+## 6. Resources and other reads
+
+Comprehensive generic instructions for suspend in all recent Ubuntu versions, updated as new versions are released
 https://ubuntuhandbook.org/index.php/2021/08/enable-hibernate-ubuntu-21-10/

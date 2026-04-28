@@ -1,5 +1,5 @@
 ---
-title: "Zbook Sleep and Hibernate"
+title: "Zbook Hibernate"
 has_children: true
 parent: "Zbook"
 ---
@@ -22,7 +22,7 @@ NAME           TYPE       SIZE USED PRIO
 ```
 If not, create swap partition or swap file - see Step 1 of the instructions (link at the bottom of this page)
 
-### 1.1) Swap settings
+### 1.1 Swap settings
 I have plenty of RAM and I like to reduce swapping to only necessary situations, so that there is ideally "_always_" enough space on swap for suspend to disk:
 ```
 sudo su -c "echo "1" > /proc/sys/vm/swappiness"
@@ -35,7 +35,7 @@ sudo emacs /etc/sysctl.conf
 vm.swappiness=1
 ```
 
-### 1.2) make sure secure boot in BIOS is disabled
+### 1.2 make sure secure boot in BIOS is disabled
 Verify from linux console w/o reboot:
 ```
 mokutil --sb-state
@@ -43,7 +43,7 @@ SecureBoot disabled
 ```
 All good in this case - reboot to BIOS and change if not.
 
-## 2) Set resume parameter for the grub bootloader
+## 2. Set resume parameter for the grub bootloader
 Point it to swap partition/file.
 ```
 sudo emacs /etc/default/grub
@@ -54,7 +54,7 @@ GRUB_CMDLINE_LINUX_DEFAULT="quiet splash resume=/dev/nvme0n1p3"
 sudo update-grub
 ```
 
-## 3) Enable Hibernate option in Power-Off Menu
+## 3. Enable Hibernate option in Power-Off Menu
 ```
 sudo apt install polkitd-pkla
 sudo mkdir -p /etc/polkit-1/localauthority/50-local.d
@@ -95,7 +95,7 @@ _(I did both, my desktop manager is Mate.)_
 
 Reboot.
 
-## 4) Test: 
+## 4. Test 
 
 Shutdown->hibernate menu item is there. Hibernate from menu works.
 
@@ -111,9 +111,9 @@ It takes quite long time though, several minutes, both the hibernating and resto
 
 _Note: Any interraction with the laptop during the process of hibernation (eg touching keyboard, shutting down the lid, unplugging/plugging anything to a USB-C including dock) is not recommended, as the process might get interrupted._
 
-## 5) Celebrate! Play with extras... or troubleshoot
+## 5. Celebrate! Play with extras... or troubleshoot
 
-### 5.1) Extras
+### 5.1 Extras
 
 In Control center -> Power Management -> On Battery Power, for "When battery power is critically low", set **Hibernate**.
 
@@ -121,8 +121,7 @@ Then the system should hibernate to disk, minimising the power consumption, rath
 
 ---
 
-#### Other useful tools, config and power related (optional)
-
+#### 5.1.1 Other useful tools, config and power related (optional)
 dconf-editor
 
 ```
@@ -142,9 +141,9 @@ config: /etc/tlp.conf
 
 (https://www.fosslinux.com/135830/how-to-fine-tune-power-management-in-ubuntu-using-tlp.htm)
 
-### 5.2) Issues 
+### 5.2 Issues 
 
-#### External HDMI screen may be blank on resume
+#### 5.2.1 External HDMI screen may be blank on resume
 Fix: Switch that ext screen video output off in xrandr/display settings, then hit "restore previous configuration" to actually not switch it off.
 
 Alternative fix: after full wake-up, disconnect and reconnect the dock or HDMI screen cable.
